@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    height: 55vh;
+    background: linear-gradient(to right, #0d1b2a, #1b263b);
+}

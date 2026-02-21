@@ -1,0 +1,1 @@
+console.log("KasGatech site chargé correctement !");
