@@ -2,7 +2,12 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.hero {
+.hero  {
     height: 55vh;
     background: linear-gradient(to right, #0d1b2a, #1b263b);
+}
+
+.py-5  {
+    height: 85vh;
+    background: linear-gradient(to right, #e9eef3, #f1f3f5);
 }
